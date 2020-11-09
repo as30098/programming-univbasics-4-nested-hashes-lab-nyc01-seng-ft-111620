@@ -65,7 +65,10 @@ def adding_matz
 #   :languages => ["LISP", "C"]
 # }
 # return the entire updated hash
-  
+  :yukihiro_matsumoto => {
+    :known_for => "Ruby",
+    :languages => ["LISP", "C"]
+  }
 	
  
 end
