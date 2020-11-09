@@ -80,8 +80,8 @@ programmer_hash =
       }
     }
   programmer_hash[:yukihiro_matsumoto] = {
-        :known_for => "COBOL",
-        :languages => ["COBOL", "FORTRAN"]
+        :known_for => "Ruby",
+        :languages => ["LISP", "FORTRAN"]
       }
   programmer_hash 
 end
