@@ -80,7 +80,7 @@ programmer_hash =
       }
     }
   programmer_hash[:yukihiro_matsumoto] 
-  p programmer_hash
+ 
   
 end
 
