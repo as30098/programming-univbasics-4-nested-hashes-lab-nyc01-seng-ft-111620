@@ -79,9 +79,11 @@ programmer_hash =
         :languages => ["C"]
       }
     }
-  programmer_hash[:yukihiro_matsumoto] 
-  
-  
+  programmer_hash[:yukihiro_matsumoto] = {
+        :known_for => "COBOL",
+        :languages => ["COBOL", "FORTRAN"]
+      }
+  programmer_hash 
 end
 
 def changing_alan
